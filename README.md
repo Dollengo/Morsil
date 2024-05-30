@@ -19,8 +19,8 @@ Morsil is a Python program that converts text between ASCII and Morse code. It a
 
 1. Clone the repository:
     ```bash
-    git clone (me)
-    cd (me)
+    git clone https://github.com/Dollengo/Morsil
+    cd Morsil
     ```
 
 2. Ensure you have Python 3 installed. If not, download and install it from [python.org](https://www.python.org/).
